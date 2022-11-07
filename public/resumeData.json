@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Macir Brustolin",
+    "occupation": "Engenheiro de Software Full-stack",
+    "description": "Fique a vontade e veja no que estou trabalhando, vamos descobrir o que podemos construir juntos",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Vamos conversar!",
+    "email": "mj.brustolin@hotmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Cascavel",
+      "state": "Paraná",
+      "zip": ""
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/macirbrustolin/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MacirBrustolin",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:mj.brustolin@hotmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
